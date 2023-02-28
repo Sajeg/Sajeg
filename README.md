@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sajeg
 - 👀 I’m interested in Programming with Godot and playing Computergames.
-- 🌱 I’m currently learning at School and develop Games with Godot.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning at School and to develop Games with Godot.
 - 📫 How to reach me on https://sajeg.itch.io
 
 <!---

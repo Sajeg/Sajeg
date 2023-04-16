@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Sajeg
-- 👀 I’m interested in Programming with Godot and playing Computergames.
-- 🌱 I’m currently learning at School and to develop Games with Godot.
-- 📫 How to reach me on https://sajeg.itch.io
+- Hi, I’m @Sajeg
+- I love Open Source Software and to devloping it.
+- You can write me on Discord: **Sajeg#8062**
 
 <!---
 Sajeg/Sajeg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

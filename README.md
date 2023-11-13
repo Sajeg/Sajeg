@@ -1,5 +1,5 @@
 - Hi, I’m @Sajeg
-- I love Open Source Software and to devloping it.
+- I love Open Source Software and to developing it.
 - You can write me on Discord: **Sajeg**
 
 <!---

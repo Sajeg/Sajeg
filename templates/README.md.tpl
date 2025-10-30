@@ -1,4 +1,4 @@
-Hey I'm Sajeg
+Hey I'm Sajeg 👋
 
 #### My [_`hackatime`_](https://hackatime.hackclub.com) stats from the last week
 

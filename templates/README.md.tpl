@@ -1,14 +1,16 @@
 Hey I'm Sajeg
 
-## My Recent coding time
+#### My [_`hackatime`_](https://hackatime.hackclub.com) stats from the last week
 
+```text
 {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 
-## My Recent Contributions
+Total: {{ wakatimeData.HumanReadableTotal }}
+```
 
-{{range recentContributions 10}}
-Name: {{.Repo.Name}}
-Description: {{.Repo.Description}}
-URL: {{.Repo.URL}})
-Occurred: {{humanize .OccurredAt}}
-{{end}}
+#### Want to Contact me?
+
+```text
+Email: sajeg.dev@gmail.com
+Discord: @Sajeg
+```

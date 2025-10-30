@@ -1,5 +1,7 @@
 Hey I'm Sajeg 👋
 
+📍 Germany
+
 #### My [_`hackatime`_](https://hackatime.hackclub.com) stats from the last week
 
 ```text

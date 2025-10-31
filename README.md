@@ -1,39 +1,28 @@
-Hey I'm Sajeg
+Hey I'm Sajeg 👋
 
-My Recent Contributions
-=======================
+#### My [_`hackatime`_](https://hackatime.hackclub.com) stats from the last week
 
-Name: tja-tja
-Description: The official moderation bot for r/tja
-URL: https://github.com/Sajeg/tja-tja)
-Occurred: 1 week ago
+```text
+💾 Languages:
+Kotlin                    55m 17s      ████████████░░░░░░░░░░░░░  46.26%
+Xml                       18m 53s      ████░░░░░░░░░░░░░░░░░░░░░  15.80%
+Http request              13m 19s      ███░░░░░░░░░░░░░░░░░░░░░░  11.16%
+TypeScript                10m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  8.70%
+Cookie storage file       3m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.08%
 
-Name: codecrafters-git-kotlin
-Description: 
-URL: https://github.com/Sajeg/codecrafters-git-kotlin)
-Occurred: 2 weeks ago
+💼 Projects:
+codecrafters-git-kotlin   1h 22m 26s   ████████████████████░░░░░  78.96%
+tja-tja                   11m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  10.95%
+requests                  4m 51s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.65%
+unknown                   3m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.53%
+unknown                   2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.92%
 
-Name: quest-presence
-Description:  Discord Rich Presence app for Meta Quest
-URL: https://github.com/Sajeg/quest-presence)
-Occurred: 4 months ago
+Total: 3 hrs 24 mins
+```
 
-Name: HakaApp
-Description: A Desktop, Android and Web App for Hackatime
-URL: https://github.com/Sajeg/HakaApp)
-Occurred: 9 months ago
+#### Want to Contact me?
 
-Name: advent-of-code-25
-Description: 
-URL: https://github.com/Sajeg/advent-of-code-25)
-Occurred: 11 months ago
-
-Name: TimeTracker
-Description: Keep track of your Quest Playtime with Time Tracker
-URL: https://github.com/Sajeg/TimeTracker)
-Occurred: 11 months ago
-
-Name: ADT-Implementierungen
-Description: Implementationen der ADTs für das Abitur Niedersachsen (KC konform)
-URL: https://github.com/GymnasiumEverstenOldenburg/ADT-Implementierungen)
-Occurred: 11 months ago
+```text
+Email: sajeg.dev@gmail.com
+Discord: @Sajeg
+```

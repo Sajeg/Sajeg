@@ -14,7 +14,7 @@ YAML         4m 0s     █░░░░░░░░░░░░░░░░░░
 requests     56m 42s   ██████████████████░░░░░░░  68.39%
 ghana.new    26m 13s   ████████░░░░░░░░░░░░░░░░░  31.61%
 
-Total: 2 hrs 27 mins
+Total: 2 hrs 25 mins
 ```
 
 #### Want to Contact me?

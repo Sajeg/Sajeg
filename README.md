@@ -4,17 +4,17 @@ Hey I'm Sajeg 👋
 
 ```text
 💾 Languages:
-Kotlin                         5h 41m 33s   █████████████░░░░░░░░░░░░  51.00%
-Java                           3h 4m 1s     ███████░░░░░░░░░░░░░░░░░░  27.48%
-Java                           1h 11m 7s    ███░░░░░░░░░░░░░░░░░░░░░░  10.62%
-XML                            52m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.89%
-TOML                           12m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.82%
+Kotlin                         6h 8m 48s    █████████████░░░░░░░░░░░░  50.88%
+Java                           3h 11m 35s   ███████░░░░░░░░░░░░░░░░░░  26.43%
+Java                           1h 17m 7s    ███░░░░░░░░░░░░░░░░░░░░░░  10.64%
+XML                            1h 5m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  8.98%
+TOML                           12m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.68%
 
 💼 Projects:
-kdeconnect-android             6h 15m 16s   █████████████████████░░░░  81.75%
-Accessbility text Input test   1h 23m 47s   █████░░░░░░░░░░░░░░░░░░░░  18.25%
+kdeconnect-android             6h 31m 17s   ████████████████████░░░░░  78.26%
+Accessbility text Input test   1h 48m 41s   ██████░░░░░░░░░░░░░░░░░░░  21.74%
 
-Total: 7 hrs 35 mins
+Total: 8 hrs 8 mins
 ```
 
 #### Want to Contact me?

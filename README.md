@@ -4,19 +4,19 @@ Hey I'm Sajeg 👋
 
 ```text
 💾 Languages:
-Kotlin                         8h 18m 37s   ██████████████░░░░░░░░░░░  52.38%
-Java                           3h 44m 51s   ██████░░░░░░░░░░░░░░░░░░░  23.62%
-Java                           1h 52m 27s   ███░░░░░░░░░░░░░░░░░░░░░░  11.81%
-XML                            1h 6m 40s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
-QML                            20m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.10%
+Kotlin                         8h 49m 57s   ██████████████░░░░░░░░░░░  52.72%
+Java                           3h 50m 51s   ██████░░░░░░░░░░░░░░░░░░░  22.97%
+Java                           1h 54m 27s   ███░░░░░░░░░░░░░░░░░░░░░░  11.39%
+XML                            1h 6m 40s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.63%
+QML                            22m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.19%
 
 💼 Projects:
-kdeconnect-android             8h 35m 38s   ████████████████████░░░░░  78.77%
-Accessbility text Input test   1h 56m 40s   █████░░░░░░░░░░░░░░░░░░░░  17.82%
-kdeconnect-kde                 22m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.40%
+kdeconnect-android             9h 10m 12s   ████████████████████░░░░░  78.92%
+Accessbility text Input test   1h 56m 40s   █████░░░░░░░░░░░░░░░░░░░░  16.73%
+kdeconnect-kde                 30m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.33%
 kdeconnect-kde (latest-kf6)    4s           █░░░░░░░░░░░░░░░░░░░░░░░░  0.01%
 
-Total: 10 hrs 24 mins
+Total: 11 hrs 4 mins
 ```
 
 #### Want to Contact me?

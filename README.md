@@ -4,14 +4,10 @@ Hey I'm Sajeg 👋
 
 ```text
 💾 Languages:
-Kotlin               3m 12s   █████████████████████████  96.97%
-Java                 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.02%
-XML                  2s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.01%
 
 💼 Projects:
-kdeconnect-android   3m 12s   █████████████████████████  100.00%
 
-Total: 0 hrs 3 mins
+Total: 0 hrs 0 mins
 ```
 
 #### Want to Contact me?

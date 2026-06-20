@@ -4,12 +4,12 @@ Hey I'm Sajeg 👋
 
 ```text
 💾 Languages:
-Onshape   6h 20m 23s   █████████████████████████  100.00%
+Onshape   6h 4m 41s   █████████████████████████  100.00%
 
 💼 Projects:
-Coco      6h 20m 23s   █████████████████████████  100.00%
+Coco      6h 4m 41s   █████████████████████████  100.00%
 
-Total: 6 hrs 20 mins
+Total: 6 hrs 4 mins
 ```
 
 #### Want to Contact me?
